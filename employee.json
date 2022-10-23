@@ -1,0 +1,37 @@
+[{
+    "emp1" : {
+            "Name" : "Aditya",
+            "DOB" : "03 June 2000",
+            "Height" : "5'9''",
+            "City" : "Jabalpur",
+            "State" : "Madhya Pradesh"
+            },
+    "emp2" :{
+            "Name" : "Ekansh",
+            "DOB" : "25 December 1999",
+            "Height" : "5'6''",
+            "City" : "Pune",
+            "State" : "Maharashtra"
+            },
+    "emo3" :{
+            "Name" : "Abhishek",
+            "DOB" : "14 August 1999",
+            "Height" : "5'11''",
+            "City" : "Kanpur",
+            "State" : "Uttar Pradesh"
+            },
+    "emp4" :{
+            "Name" : "Rohit",
+            "DOB" : "22 April 2000",
+            "Height" : "5'9''",
+            "City" : "Bangalore",
+            "State" : "Karnataka"
+            },
+    "emp5" :{
+            "Name" : "Manul",
+            "DOB" : "25 June 2000",
+            "Height" : "5'10''",
+            "City" : "Mumbai",
+            "State" : "Maharashtra"
+            }
+}]
